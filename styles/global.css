@@ -1,5 +1,13 @@
 body {
   background: #effbff;
+  margin: 0;
+  padding: 0;
+}
+
+fieldset {
+  margin: 0;
+  padding: 0;
+  border: 0;
 }
 
 .form-input {
@@ -41,7 +49,7 @@ padding: 0;
 
 .todo-item__delete-btn {
   float: right;
-  font-size: 1.6em;
+  font-size: 1.4em;
   font-weight: 600;
   color: red;
   text-align: center;

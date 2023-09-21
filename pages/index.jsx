@@ -1,9 +1,9 @@
-import ToDoList from '../components/ToDoList';
+import ToDo from '../components/ToDo';
 
 export default function Home() {
-	return (
-		<section>
-			<ToDoList />
-		</section>
-	);
+  return (
+    <section>
+      <ToDo />
+    </section>
+  );
 }

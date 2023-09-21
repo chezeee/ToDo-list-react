@@ -1,4 +1,4 @@
-import ToDoList from '../components/ToDoList';
+// import ToDoList from '../components/ToDoList';
 import css from '../styles/global.css';
 
 export default function MyApp({Component, pageProps}) {
